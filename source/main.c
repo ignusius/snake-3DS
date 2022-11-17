@@ -1,5 +1,6 @@
 // A simple "snake" game written in C / SDL 1.2.
 // Copyright 2020 Jason Pepas
+// Fix bugs and adaptation by N3DS - Komarov Alexander
 // Released under the terms of the MIT license
 // See https://opensource.org/licenses/MIT
 
